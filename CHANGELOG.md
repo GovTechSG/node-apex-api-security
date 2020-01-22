@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### V1.0.9
+
+- Fix vulnerable dependency , eslint and update license year
+
 ### V1.0.8
 
 - Fix Object mutation issue #40 when ApiSigningUtil is called too many times with same object

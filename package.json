@@ -1,6 +1,6 @@
 {
   "name": "node-apex-api-security",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "APEX API security utiity. Includes helper operations to generate HMAC-SHA256 and RSA-SHA256 signatures",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
     "node": "^10.16.x"
   },
   "dependencies": {
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.15",
     "minimist": "^1.2.0",
     "querystring": "^0.2.0",
     "winston": "^2.4.4"
@@ -18,14 +18,14 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
-    "coveralls": "^3.0.5",
-    "eslint": "^6.0.1",
-    "eslint-plugin-import": "^2.18.0",
-    "eslint-plugin-node": "^9.1.0",
+    "coveralls": "^3.0.9",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-security": "^1.4.0",
-    "mocha": "^6.1.4",
-    "nyc": "^14.1.1",
+    "mocha": "^7.0.0",
+    "nyc": "^15.0.0",
     "test-suites-apex-api-security": "git+https://github.com/GovTechSG/test-suites-apex-api-security.git#master"
   },
   "repository": {
