@@ -1,2 +1,0 @@
---require spec/support/common.js
---timeout 300000

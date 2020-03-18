@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### V1.0.10
+- Fix vulnerable dependency and update mocha configs 
+
 ### V1.0.9
 
 - Fix vulnerable dependency , eslint and update license year

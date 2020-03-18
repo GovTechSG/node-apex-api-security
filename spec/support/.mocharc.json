@@ -1,0 +1,7 @@
+
+{
+    "require": "spec/support/common.js",
+    "extension": ["js"],
+    "package": "./package.json",
+    "timeout": 30000
+}
