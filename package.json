@@ -1,6 +1,6 @@
 {
   "name": "node-apex-api-security",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "APEX API security utiity. Includes helper operations to generate HMAC-SHA256 and RSA-SHA256 signatures",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
     "node": "^10.16.x"
   },
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.5",
     "querystring": "^0.2.0",
     "winston": "^2.4.4"

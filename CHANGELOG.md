@@ -4,8 +4,13 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### V1.0.11
+
+- Patch and update Lodash
+
 ### V1.0.10
-- Fix vulnerable dependency and update mocha configs 
+
+- Fix vulnerable dependency and update mocha configs
 
 ### V1.0.9
 
