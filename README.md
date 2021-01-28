@@ -1,7 +1,7 @@
 # APEX API Node.js Security Utility
 [![npm version](https://badge.fury.io/js/node-apex-api-security.svg)](https://badge.fury.io/js/node-apex-api-security)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/eb0547096e2d4693b8cd19a87977f14f)](https://www.codacy.com/app/GovTech/node-apex-api-security?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GovTechSG/node-apex-api-security&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/GovTechSG/node-apex-api-security.svg?branch=master)](https://travis-ci.org/GovTechSG/node-apex-api-security)
+[![Build Status](https://travis-ci.com/GovTechSG/node-apex-api-security.svg?branch=master)](https://travis-ci.com/GovTechSG/node-apex-api-security)
 [![Coverage Status](https://coveralls.io/repos/github/GovTechSG/node-apex-api-security/badge.svg?branch=master)](https://coveralls.io/github/GovTechSG/node-apex-api-security?branch=master)
 [![Known Vulnerabilities](https://snyk.io/test/github/govtechsg/node-apex-api-security/badge.svg)](https://snyk.io/test/github/govtechsg/node-apex-api-security)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
