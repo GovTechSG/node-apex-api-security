@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### V1.1.0
+
+- Update to node engine v12.10.x
+- Remove test suite dependency due to scalability issue
+
 ### V1.0.11
 
 - Patch and update Lodash
